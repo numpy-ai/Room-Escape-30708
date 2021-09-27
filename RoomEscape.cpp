@@ -1,3 +1,9 @@
+/*
+개발자 : 30707 김학성, 30708 박민성
+개발일 : 2021.09.13
+문의 : numpy.ai@gmail.com 
+*/
+
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
